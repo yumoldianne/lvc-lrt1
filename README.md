@@ -3,7 +3,7 @@
 This is a repository containing relavant codes and datasets for our undergraduate thesis. Our undergraduate thesis class (MATH 192) was handled by Dr. Clark Go.
 
 
-# Thesis Group
+### Thesis Group
 - Mica Dizo
 - Leibniz Parra
 - Dianne Yumol
